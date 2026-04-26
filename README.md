@@ -1,5 +1,6 @@
 # FlightTracker
 
+A weekend project to track my in-laws flight home is born... :)
 `FlightTracker` is a SwiftUI iPhone app for looking up live flight information by flight number and date.
 
 ## Features
